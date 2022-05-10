@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 41e2b2e0dc9fd426f8af334e26374957
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sweet Buttermilk Free
+  fontNames:
+  - Sweet Buttermilk Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5444dc1181e254f5bb3bfd15ccc25f10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
